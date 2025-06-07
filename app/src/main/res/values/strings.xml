@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">LecturesApp</string>
+    <string name="back">Volver</string>
+
+    <string name="nav_home">Inicio</string>
+    <string name="nav_reading_now">Leyendo</string>
+    <string name="nav_read_books">Leídos</string>
+    <string name="nav_settings">Ajustes</string>
+
+    <string name="home_screen_title">Inicio</string>
+    <string name="lectures_title">LECTURAS</string>
+    <string name="recommended_button">RECOMENDADAS</string>
+    <string name="add_new_button">AGREGAR NUEVA</string>
+    <string name="add_new_content_description">Agregar nueva lectura</string>
+
+    <string name="login_title">Inicia sesión</string>
+    <string name="login_subtitle">y comienza a leer</string>
+    <string name="username_label">Usuario</string>
+    <string name="password_label">Contraseña</string>
+    <string name="login_button">INICIAR SESIÓN</string>
+
+    <string name="recommended_screen_title">Lecturas recomendadas</string>
+
+    <string name="add_new_reading_title">Agregar nueva lectura</string>
+    <string name="title_hint">Título: Ingresa el título del libro</string>
+    <string name="author_hint">Autor/s: Ingresa el autor del libro</string>
+    <string name="type_label">Tipo:</string>
+    <string name="pages_label">Número de páginas:</string>
+    <string name="save_button">Guardar</string>
+
+    <string name="book_details_title">Lectura recomendada</string>
+    <string name="pages_placeholder">352</string> <string name="synopsis_label">Sinopsis:</string>
+    <string name="add_to_reading_button">AGREGAR A LEYENDO</string>
+    <string name="mark_as_read_button">MARCAR COMO LEÍDO</string>
+    <string name="book_not_found">Libro no encontrado.</string>
+
+    <string name="read_books_title">Leídos</string>
+    <string name="title_label">Título:</string>
+    <string name="author_label">Autor/es:</string>
+    <string name="category_label">Categoría:</string>
+    <string name="start_date_label">Fecha de inicio:</string>
+    <string name="end_date_label">Fecha de fin:</string>
+    <string name="reading_time_label">Tiempo de lectura:</string>
+    <string name="days">días</string>
+
+    <string name="reading_now_title">Leyendo</string>
+    <string name="progress_label">Progreso: %1$d págs</string>
+    <string name="pages_read_label">Páginas leídas:</string>
+    <string name="pages_remaining_label">Páginas faltantes: %1$d</string>
+    <string name="percentage_progress">%1$d%%</string>
+
+    <string name="settings_screen_title">Ajustes</string>
+    <string name="username_settings_label">Usuario:</string>
+    <string name="password_settings_label">Contraseña:</string>
+    <string name="update_button">Actualizar</string>
+
+    <string name="delete_button">Borrar</string>
+    <string name="register_title">Registrarse</string>
+    <string name="register_header">Registrese para comenzar</string>
+    <string name="register_button">Registrarse</string>
+</resources>

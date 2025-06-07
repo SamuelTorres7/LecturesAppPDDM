@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LecturesApp</string>
+    <string name="back">Back</string>
+
+    <string name="nav_home">Home</string>
+    <string name="nav_reading_now">Reading Now</string>
+    <string name="nav_read_books">Read Books</string>
+    <string name="nav_settings">Settings</string>
+
+    <string name="home_screen_title">Home</string>
+    <string name="lectures_title">LECTURES</string>
+    <string name="recommended_button">RECOMMENDED READINGS</string>
+    <string name="add_new_button">ADD NEW</string>
+    <string name="add_new_content_description">Add new reading</string>
+
+    <string name="login_title">Log in</string>
+    <string name="login_subtitle">and start reading</string>
+    <string name="username_label">Username</string>
+    <string name="password_label">Password</string>
+    <string name="login_button">LOG IN</string>
+
+    <string name="recommended_screen_title">Recommended Readings</string>
+
+    <string name="add_new_reading_title">Add New Reading</string>
+    <string name="title_hint">Title: Enter the title of the book</string>
+    <string name="author_hint">Author(s): Enter the author of the book</string>
+    <string name="type_label">Type:</string>
+    <string name="pages_label">Number of pages:</string>
+    <string name="save_button">Save</string>
+
+    <string name="book_details_title">Recommended Reading</string>
+    <string name="pages_placeholder">352</string>
+    <string name="synopsis_label">Synopsis:</string>
+    <string name="add_to_reading_button">ADD TO READING</string>
+    <string name="mark_as_read_button">MARK AS READ</string>
+    <string name="book_not_found">Book not found.</string>
+
+    <string name="read_books_title">Read Books</string>
+    <string name="title_label">Title:</string>
+    <string name="author_label">Author(s):</string>
+    <string name="category_label">Category:</string>
+    <string name="start_date_label">Start Date:</string>
+    <string name="end_date_label">End Date:</string>
+    <string name="reading_time_label">Reading Time:</string>
+    <string name="days">days</string>
+
+    <string name="reading_now_title">Reading</string>
+    <string name="progress_label">Progress: %1$d pages</string>
+    <string name="pages_read_label">Pages read:</string>
+    <string name="pages_remaining_label">Pages remaining: %1$d</string>
+    <string name="percentage_progress">%1$d%%</string>
+
+    <string name="settings_screen_title">Settings</string>
+    <string name="username_settings_label">Username:</string>
+    <string name="password_settings_label">Password:</string>
+    <string name="update_button">Update</string>
+
+    <string name="delete_button">Delete</string>
+    <string name="register_title">Sign Up</string>
+    <string name="register_header">Sign up and Start</string>
+    <string name="register_button">Sign up</string>
+</resources>
